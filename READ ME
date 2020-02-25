@@ -1,0 +1,10 @@
+                       LOGIN FORM IN PYTHON USING FLASK
+
+REQUIREMENTS:
+1.Pycharm Application.
+2.MySql database.
+
+PACKAGES:
+1.Install Flask and Flask-MySql Packages in Pycharm.
+2.Create HTML form page in Templates folder,Otherwise it won't work.
+3.Then Configure your database using my MySql.
